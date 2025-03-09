@@ -6,13 +6,14 @@
 /*   By: ntokita <ntokita@student.42tokyo.j>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/04 16:06:35 by ntokita           #+#    #+#             */
-/*   Updated: 2024/07/06 15:42:03 by ntokita          ###   ########.fr       */
+/*   Updated: 2025/03/09 15:46:39 by ntokita          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
 
+#include <stdint.h>
 # include <limits.h>
 # include <stdio.h>
 # include <stdlib.h>
