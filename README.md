@@ -36,7 +36,7 @@ cc main.c libft.a
 ```bash
 ./a.out
 ```
-output:
+Expected output:
 
 ```bash
 Hello!
