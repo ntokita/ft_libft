@@ -1,4 +1,4 @@
-#Project Title
+# Project Title
 
 This is my own C library
 
@@ -11,30 +11,30 @@ cd libft
 ```
 2.Compile using the make command.
 
-'''bash
+```bash
 make
-'''
+```
 
-3.Please create a main function like the one below.
+3.Please create a main function(main.c) like the one below.
 
-'''bash
+```bash
 #include"libft.h"
 
 int main(void)
 {
         ft_putstr_fd("Hello!\n", 1);
 }
-'''
+```
 4.Compile the main function together with libft.a.
 
-'''bash
+```bash
  cc main.c libft.a
-'''
+```
 5.Run the executable.
 
-'''bash
+```bash
  ./a.out
-'''
+```
 
 # Note
  
