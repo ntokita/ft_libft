@@ -23,6 +23,7 @@ make
 int main(void)
 {
         ft_putstr_fd("Hello!\n", 1);
+        return(0);
 }
 ```
 4.Compile the main function together with libft.a.
@@ -34,5 +35,10 @@ cc main.c libft.a
 
 ```bash
 ./a.out
+```
+output:
+
+```bash
+Hello!
 ```
 
