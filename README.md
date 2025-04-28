@@ -28,7 +28,7 @@ int main(void)
 4.Compile the main function together with libft.a.
 
 ```bash
- cc main.c libft.a
+cc main.c libft.a
 ```
 5.Run the executable.
 
