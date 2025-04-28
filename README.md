@@ -33,6 +33,6 @@ cc main.c libft.a
 5.Run the executable.
 
 ```bash
- ./a.out
+./a.out
 ```
 
