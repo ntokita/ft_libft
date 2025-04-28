@@ -1,10 +1,10 @@
 # Project Title
 
-This is my own C library
+This is my own C library.
 
 # Usage
 
-1.Clone this repository
+1.Clone this repository.
 ```bash
 git clone https://github.com/ntokita/ft_libft.git libft
 cd libft
